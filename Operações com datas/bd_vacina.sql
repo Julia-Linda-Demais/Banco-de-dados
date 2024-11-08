@@ -1,0 +1,4 @@
+CREATE DATABASE bd_vacina;
+USE bd_vacina;
+
+SELECT DATEADD(DAY, 120, '05/06/2020')

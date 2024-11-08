@@ -1,0 +1,4 @@
+CREATE DATABASE bd_fatura;
+USE bd_fatura;
+
+SELECT DATEDIFF(DAY, '03/04/2020', '05/06/2020')
